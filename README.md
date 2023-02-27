@@ -12,18 +12,18 @@ I have also used some other codes for my repositories
 
 ** Task list **
 
-- [x] ** Node.js API for receiving process request **
-- [x] ** Node.js API for allocating process unit **
-- [x] ** Python Code for Random Forest Regression **
-- [x] ** Python Code for Random Forest HPO **
-- [] ** Python Code for XGBoost Regression **
-- [] ** Python Code for XGBoost HPO **
-- [] ** Node.js API for allocating parameter ** 
-- [] ** Kafka for listening to the API requests ** 
-- [] ** Spark Cluster for Keeping the results ** 
-- [] ** Refactor Node.js with RX.js **
-- [] ** K8s manifest 
-- [] ** Replacing API with RPC **
-- [] ** Buidling up Grafana Dashbaord ** 
-- [] ** Buidling up Resource request dashboard ** 
-- [] ** AWS deployment ** 
+- [x] Node.js API for receiving process request **
+- [x] Node.js API for allocating process unit **
+- [x] Python Code for Random Forest Regression **
+- [x] Python Code for Random Forest HPO **
+- Python Code for XGBoost Regression **
+- Python Code for XGBoost HPO **
+- Node.js API for allocating parameter ** 
+- Kafka for listening to the API requests ** 
+- Spark Cluster for Keeping the results ** 
+- Refactor Node.js with RX.js **
+- K8s manifest 
+- Replacing API with RPC **
+- Buidling up Grafana Dashbaord ** 
+- Buidling up Resource request dashboard ** 
+- AWS deployment ** 
