@@ -1,5 +1,5 @@
 # Distributed Hyper Parameter Optimized Cluster
-## Using Node.js + Kafka + Mongo + Python + K8s + Spark + Kafka + RXjs 
+## Using Node.js + Kafka + Mongo + Python + K8s + Spark + RXjs 
 
 This project is a trying to understand the possibility of optimizing hyper parameters using an automated horizental scalable cluster for empowering researchers with a tool which they can clone or fork for adding their contributions. By cloning this project in any docker/kubernetes environment you will be able to start your own cluster and assign any amount of GPUs as you need.
 This project uses Actor models and has a reactive programming approach within its core. 
