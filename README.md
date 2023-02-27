@@ -5,25 +5,27 @@ This project is a trying to understand the possibility of optimizing hyper param
 This project uses Actor models and has a reactive programming approach within its core. 
 
 ** Contributions are welcomed! ** 
+
 HPO is an open source project and we welcome your contributions. 
 
 ** References **
-I have also used some other codes for my repositories 
+
+I have also used some other codes for my repositories which I will list them here. 
 
 ** Task list **
 
-- [x] Node.js API for receiving process request **
-- [x] Node.js API for allocating process unit **
-- [x] Python Code for Random Forest Regression **
-- [x] Python Code for Random Forest HPO **
-- Python Code for XGBoost Regression **
-- Python Code for XGBoost HPO **
-- Node.js API for allocating parameter ** 
-- Kafka for listening to the API requests ** 
-- Spark Cluster for Keeping the results ** 
-- Refactor Node.js with RX.js **
+- [x] Node.js API for receiving process request 
+- [x] Node.js API for allocating process unit 
+- [x] Python Code for Random Forest Regression 
+- [x] Python Code for Random Forest HPO 
+- Python Code for XGBoost Regression 
+- Python Code for XGBoost HPO 
+- Node.js API for allocating parameter 
+- Kafka for listening to the API requests  
+- Spark Cluster for Keeping the results  
+- Refactor Node.js with RX.js 
 - K8s manifest 
-- Replacing API with RPC **
-- Buidling up Grafana Dashbaord ** 
-- Buidling up Resource request dashboard ** 
-- AWS deployment ** 
+- Replacing API with RPC 
+- Buidling up Grafana Dashbaord  
+- Buidling up Resource request dashboard 
+- AWS deployment 
