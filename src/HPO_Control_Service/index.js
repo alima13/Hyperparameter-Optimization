@@ -28,8 +28,7 @@ if (process.env.NODE_ENV !== 'production') {
 }
 
 mongoose
-//.  connect('mongodb://britekiller:94rzHNC94rzHNC987ASD@mongo1.datastore.briteads.ir:8967/Nativedevelop?authSource=admin', {userMongoClient: true})
-    .connect("mongodb://127.0.0.1/HPOdb?socketTimeoutMS=90000", { useNewUrlParser: true })
+  .connect("mongodb://127.0.0.1/HPOdb?socketTimeoutMS=90000", { useNewUrlParser: true })
   .then(() => {
     const app = express();
     app.use(express.json());
